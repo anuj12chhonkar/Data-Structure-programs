@@ -1,4 +1,4 @@
-package BasicMaths;
+package basicMaths;
 
 import java.lang.Math;
 
@@ -33,9 +33,9 @@ public class ArmstrongNumber {
     }
 
     public static void main(String[] args) {
-        int number = 1634;
+        int number = 1635;
         if (isArmstrong(number)) {
-            System.out.println(number + " is an Armstrong number.");
+            System.out.println(number + " is an Arms ffftrong number.");
         } else {
             System.out.println(number + " is not an Armstrong number.");
         }

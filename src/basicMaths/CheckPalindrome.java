@@ -1,4 +1,4 @@
-package BasicMaths;
+package basicMaths;
 
 public class CheckPalindrome {
 
