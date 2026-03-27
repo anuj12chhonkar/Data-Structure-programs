@@ -8,7 +8,7 @@ public class Fibonacci {
 
         int last = fib(n-1);
         int sLast = fib(n-2);
-int i= last + sLast;
+        int i= last + sLast;
        return i;
 
     }

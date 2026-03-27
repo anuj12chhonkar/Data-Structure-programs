@@ -16,7 +16,7 @@ public class Palindrome {
     }
 
     public static void main(String[] args) {
-        String s = "MADSM";
+        String s = "MADAM";
 
         System.out.println("The given string is Palindrome: " +palindrome(0,s));
     }

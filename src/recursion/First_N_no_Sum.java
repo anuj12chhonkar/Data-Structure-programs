@@ -8,6 +8,7 @@ public class First_N_no_Sum {
         return n+sum(n-1);
             }
     public static void main(String[] args) {
+
         System.out.println("The sum of the numbers is: " +sum(3));
     }
 
